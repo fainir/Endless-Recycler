@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Mini Winit</string>
+
+    <string name="lotteries_api_array_name">Lotteries</string>
+
+    <string name="no_more_lotteries">No More Lotteries</string>
+
+    <string name="error_has_occurred">Error Has Occurred</string>
+
+    // Card titles
+    <string name="hosted">Hosted by: </string>
+    <string name="link_title">GO!</string>
+
+
+</resources>
